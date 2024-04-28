@@ -1,4 +1,4 @@
-ChatGPT Landing Page
+#ChatGPT Landing Page
 Overview
 This landing page showcases the capabilities of ChatGPT, a powerful AI language model developed by OpenAI. ChatGPT can engage in conversations, answer questions, provide information, and assist with a wide range of tasks.
 
@@ -16,4 +16,4 @@ CSS
 JavaScript
 ChatGPT API
 Getting Started
-To get started, simply visit the ChatGPT landing page and start interacting with ChatGPT.
+To get started, simply visit the ChatGPT landing page and start interacting with ChatGPT
